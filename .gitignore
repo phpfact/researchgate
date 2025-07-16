@@ -1,4 +1,4 @@
 .env
 venv/
-auto_git_push.py
+myGit.py
 git.log
