@@ -1,0 +1,4 @@
+.env
+venv/
+auto_git_push.py
+git.log
